@@ -59,11 +59,6 @@
 3. 💪 Opened PR [#2] in [Khosbayar707/awesome-project]
 <!--END_SECTION:activity-->
 
-## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khosbayar707&repo=awesome-project&theme=radical)](https://github.com/Khosbayar707/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Khosbayar707&repo=another-project&theme=radical)](https://github.com/Khosbayar707/another-project)
-
 ## ✍️ Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
