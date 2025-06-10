@@ -2,8 +2,6 @@
 
 🚀 Passionate about building modern web applications with JavaScript technologies  
 🌱 Currently learning advanced TypeScript and GraphQL concepts  
-💬 Ask me about React, Next.js, or Node.js  
-⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes  
 
 ## 🛠️ Tech Stack
 
