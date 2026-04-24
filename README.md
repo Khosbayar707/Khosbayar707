@@ -18,14 +18,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Khosbayar707&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
